@@ -1,0 +1,2 @@
+# CLOUDXNS-DDNS-BY-PowerShell
+CLOUDXNS DDNS更新脚本
