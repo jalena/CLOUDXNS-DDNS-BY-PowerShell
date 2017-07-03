@@ -1,7 +1,7 @@
 # set-executionpolicy remotesigned
 
 #[必填]请在上方填写你的CLoudXNS的API KEY和SECRET KEY.
-$API_KEY = "da675f3814d7c8d24dbb6d9a4678e5a4"
+$API_KEY = "da675f3814d7c8d24dbb6d9a4678e584"
 $SECRET_KEY = "b14780eb9d31e815"
 
 #[必填]请在上方填写你的域名，比如myhome.xxx.com
